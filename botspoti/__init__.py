@@ -1,0 +1,1 @@
+"""BOTspoti — bot muzyczny Discord."""
